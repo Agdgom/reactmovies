@@ -1,7 +1,7 @@
 export default function Header(){
 
     return(
-        <header className="green lighten-2">
+        <header className="red accent-1">
             <nav className="container transparent">
                 <div className="nav-wrapper">
                 <a href="./" className="brand-logo">React Movies</a>
